@@ -4,7 +4,7 @@
 #include <winsock2.h> // работа с сокетами
 
 using namespace std;
-
+#Popova was here
 
 class RC4{
 	char S[256];
